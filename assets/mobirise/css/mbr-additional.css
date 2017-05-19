@@ -1,0 +1,10 @@
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+
+#header1-0 P {
+  color: #cccccc;
+  font-family: 'Lora', serif;
+  text-align: left;
+}
+#header1-0 H1 {
+  color: #eb6b56;
+}
